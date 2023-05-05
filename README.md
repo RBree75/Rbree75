@@ -13,7 +13,7 @@
  
 
 |                                    Command                                  |                                      Command function                                 |
-| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- 
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | alias download="youtube-dl -f bestaudio --extract-audio --audio-format mp3  | Use the download command to download a youtube audio using youtube-dl.                |
 | alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'     | create a directory and access it at once                                              |
 | alias ip="curl icanhazip.com"                                               | 	Know our public ip from the terminal with the ip command.                            |
