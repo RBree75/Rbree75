@@ -12,7 +12,7 @@
   ### I am going to attach a table with commands that I have seen that can be used in the terminal.
  
 
-|                                    Command                                  |                                      Función del Alias                                |
+|                                    Command                                  |                                      Command function                                 |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- 
 | alias download="youtube-dl -f bestaudio --extract-audio --audio-format mp3  | Usar el comando download para descargar un audio de youtube mediante youtube-dl.      |
 | alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'     | Use the download command to download a youtube audio using youtube-dl.                |
