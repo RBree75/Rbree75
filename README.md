@@ -1,25 +1,31 @@
 ### Hola!!🎈 
 
-## Estoy iniciando en el camino del desarrollo web.✍️
+### I'm Ronald, I have 28 years old.✍️
 
-### En este momento estoy aprendiendo sobre la terminal y estoy aprendiendo sobre los comandos alias, voy a adjuntar una tabla aca de comandos Alias interesantes que he conseguido.
+### I'm civil construction technician and and bartender,  I'm currently learning web development, thanks to a full stack developer bootcamp. Since I like to learn new things and I would like to develop myself in this field of work.
+
+ **Hobbies**
+ - Football
+ - Read
+ - Exercise
+ 
+  ### I am going to attach a table with commands that I have seen that can be used in the terminal.
+ 
+
+|                                    Command                                  |                                      Función del Alias                                |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- 
+| alias download="youtube-dl -f bestaudio --extract-audio --audio-format mp3  | Usar el comando download para descargar un audio de youtube mediante youtube-dl.      |
+| alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'     | Use the download command to download a youtube audio using youtube-dl.                |
+| alias ip="curl icanhazip.com"                                               | 	Know our public ip from the terminal with the ip command.                            |
+| alias .1="cd ..                                                             | .1 to go up 1 level in the directory structure.                                       |
+| alias grep="grep --color=auto"                                              | 	So that grep will highlight the matching word.                                       |
 
 
-
-| Alias                                                                                                 | Función del Alias |
-| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| alias download="youtube-dl -f bestaudio --extract-audio --audio-format mp3  | Usar el comando download para descargar un audio de youtube mediante youtube-dl.        |
-| alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'     | Crear un directorio y acceder directamente al directorio creado.                        |
-| alias ip="curl icanhazip.com"                                               | 	Saber nuestra ip pública desde la terminal con el comando ip.                         |
-| alias .1="cd ..                                                             | .1 para subir 1 nivel en la estructura de directorios.                                  |
-| alias grep="grep --color=auto"                                              | 	Para que grep resalte la palabra coincidente.                                         |
-
-
-## Voy a Enlistar dos comandos mas utilizados.
+## At the moment I don't have the most used commands but I am going to list here two that seem interesting to me.
 
 ```bash
 
-alias df="df -h"
+alias download="youtube-dl -f bestaudio --extract-audio --audio-format mp3
 ```
 
 ```
