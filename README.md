@@ -14,8 +14,8 @@
 
 |                                    Command                                  |                                      Command function                                 |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- 
-| alias download="youtube-dl -f bestaudio --extract-audio --audio-format mp3  | Usar el comando download para descargar un audio de youtube mediante youtube-dl.      |
-| alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'     | Use the download command to download a youtube audio using youtube-dl.                |
+| alias download="youtube-dl -f bestaudio --extract-audio --audio-format mp3  | Use the download command to download a youtube audio using youtube-dl.                |
+| alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'     | create a directory and access it at once                                              |
 | alias ip="curl icanhazip.com"                                               | 	Know our public ip from the terminal with the ip command.                            |
 | alias .1="cd ..                                                             | .1 to go up 1 level in the directory structure.                                       |
 | alias grep="grep --color=auto"                                              | 	So that grep will highlight the matching word.                                       |
